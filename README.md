@@ -12,5 +12,5 @@
 # Github stats & Top Languages
 <p align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=NS-Sp4ce&show_icons=true&theme=buefy">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NS-Sp4ce&hide=css,html&layout=compact">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NS-Sp4ce&hide=css,html&layout=compact">
 </p>
