@@ -9,7 +9,7 @@
 
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=NS-Sp4ce&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="550"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NS-Sp4ce&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="475"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NS-Sp4ce&layout=compact&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="400px"/>
   </p>
 </br>
